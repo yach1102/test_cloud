@@ -13,3 +13,4 @@ spring:
   profiles: test  #测试环境
   application:
    name: config-server-test
+foo: foo
